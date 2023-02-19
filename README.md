@@ -1,0 +1,2 @@
+# DOC-UDI
+Doc-UDI is A QR Based Healthcare Management System, made to implement the concept of UPI in the medical world Each doctor will have a unique QR that the patient has to scan to schedule/start appointments. Once the patient scans the QR, the doctor will have access to all the previous medical records. The new prescription issued will be stored on cloud. Made using Flutter, React, Nodejs, MongoDB, Python
